@@ -1,0 +1,23 @@
+body {
+  /* background-color: peachpuff; */
+  background: url("../images/brain-background.png");
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.subheader {
+  color: black;
+}
+.row {
+  margin: 20px;
+  /* float: left; */
+}
+/* 
+.col{
+    float:left;
+
+} */
